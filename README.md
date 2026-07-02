@@ -53,4 +53,4 @@ presentation — built on a two-year sales dataset (2024-2025).
 Python (pandas, numpy, scipy, matplotlib), Excel (openpyxl), PowerPoint (pptxgenjs)
 
 ## Author
-[Your name here]
+[pasupuletiprasanna]
